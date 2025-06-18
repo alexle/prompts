@@ -1,0 +1,1 @@
+Give me a technical analysis of TWLO, including current price, 50-day and 200-day SMAs, RSI, MACD, and whether a Golden Cross or Death Cross has recently occurred.
