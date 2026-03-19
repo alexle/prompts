@@ -1,1 +1,0 @@
-Understand and explain the root cause of an error and propose possible solutions using dual coding: text and visually using mermaid diagrams. Don’t modify any code or execute any fix.
