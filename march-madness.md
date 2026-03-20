@@ -35,12 +35,7 @@
 - **Personnel:** Veteran guards with elite assist-to-turnover ratios. Lean into NBA-level shot creators.
 - **Ceiling:** Sweet 16 is the absolute limit.
 
-## 6. Pool Strategy Adjustments
-
-- **Small Pool (<=20):** Lean heavily on "Chalk" (favorites). Pick the overall KenPom #1 for champion.
-- **Large Pool (50+):** Use one contrarian Final Four team (a high-efficiency 3 or 4 seed).
-
-## 7. Final Submission Audit
+## 6. Final Submission Audit
 
 - **Emotion Check:** Remove teams you "like" if they fail the defensive floor rule.
 - **Injury Check:** Downgrade any team with a primary ball-handler out (e.g., 2026 Louisville without Mikel Brown Jr.).
@@ -52,7 +47,7 @@
 
 ---
 
-## 8. Bracket Scorecard
+## 7. Bracket Scorecard
 
 Use this scorecard to audit a completed bracket against the checklist. Grade each section, flag violations, and produce a final letter grade.
 
