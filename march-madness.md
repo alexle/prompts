@@ -10,11 +10,12 @@
 ## 2. Final Four Architecture
 
 - **The 3+1 Rule:** Three teams must be 1-2 seeds; one team can be a value pick (3-4 seed).
-- **Stability:** Zero teams seeded 5 or higher should reach this stage.
+- **Stability:** Zero teams seeded 5 or higher should reach this stage. **Override:** A 5-6 seed may qualify if the team is KenPom Top 15 overall.
 - **Defense:** At least two Final Four teams must rank in the KenPom Top 10 for Defensive Efficiency.
 
 ## 3. Upset Allocation (Round of 64)
 
+- **8/9 Games:** Treat as coin flips — not counted toward the 3-5 upset total below.
 - **10-Seeds:** Pick 1-2 total. Target "Power Conference" teams with a rough mid-season but high analytical ceilings (e.g., 2026 Texas A&M/Missouri).
 - **11-Seeds:** Pick 1-2 total. Maximum of one advances to the Sweet 16.
 - **12-Seeds:** Pick 1-2 total. Use as "Chaos Early" picks only; none go past the Round of 32.
@@ -25,20 +26,20 @@
 
 - **Round of 64:** 3-5 total upsets. Focus exclusively on 10s, 11s, and 12s.
 - **Round of 32:** Majority of favorites advance. Flush out the 11/12 seeds here.
-- **Sweet 16:** All teams must rank in the KenPom Top 30 overall. Cross-check: all should appear in ESPN BPI Top 30.
-- **Elite 8 Floor (HARD CAP):** No team outside the KenPom Top 40 in Defensive Efficiency advances past the Sweet 16 (e.g., 2026 Alabama at #68 and Wisconsin at #62 are capped here). When KenPom defensive data is unavailable, use ESPN BPI defensive rating as a proxy — teams with BPI Def below 8.0 are suspect.
+- **Sweet 16:** All teams must rank in the KenPom Top 35 overall (tolerance band: teams ranked 31-35 are borderline — flag but do not auto-eliminate). Cross-check: all should appear in ESPN BPI Top 30.
+- **Elite 8 Floor (HARD CAP):** No team outside the KenPom Top 40 in Defensive Efficiency advances past the Sweet 16 (e.g., 2026 Alabama at #68 and Wisconsin at #62 are capped here). When KenPom defensive data is unavailable, use ESPN BPI defensive rating as a proxy — teams with BPI Def below 8.0 are suspect. **Source precedence:** KenPom AdjDE rank is authoritative; BPI Def is a secondary signal only. If a team passes KenPom Top 40 but fails the BPI 8.0 threshold, trust KenPom.
 
 ## 5. The Cinderella Filter (Max 1 Team)
 
 - **Metrics:** Must rank in the KenPom Top 75 overall and Top 50 in Defense.
-- **Ball Security:** Must rank in the National Top 50 for Turnover Percentage ("They don't beat themselves").
+- **Ball Security:** Must rank in the National Top 50 for Turnover Percentage ("They don't beat themselves"). Use Bart Torvik (barttorvik.com) as a fallback source when KenPom TO% data is unavailable.
 - **Personnel:** Veteran guards with elite assist-to-turnover ratios. Lean into NBA-level shot creators.
 - **Ceiling:** Sweet 16 is the absolute limit.
 
 ## 6. Final Submission Audit
 
 - **Emotion Check:** Remove teams you "like" if they fail the defensive floor rule.
-- **Injury Check:** Downgrade any team with a primary ball-handler out (e.g., 2026 Louisville without Mikel Brown Jr.).
+- **Injury Check:** Downgrade any team with a primary ball-handler out (e.g., 2026 Louisville without Mikel Brown Jr.). **Process:** Re-check injury reports 48 hours before each round's tipoff — do not rely on stale pre-tournament data.
 - **Balance:** Early rounds = Chaos; Late rounds = Stability.
 
 ---
